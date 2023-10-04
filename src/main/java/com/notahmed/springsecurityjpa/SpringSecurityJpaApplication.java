@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @SpringBootApplication
-@RequestMapping("/api/v1")
+//@RequestMapping("/api/v1")
 public class SpringSecurityJpaApplication {
 
 	public static void main(String[] args) {
