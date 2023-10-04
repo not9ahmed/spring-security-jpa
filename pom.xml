@@ -35,6 +35,8 @@
 <!--			<artifactId>mysql-connector-j</artifactId>-->
 <!--			<scope>runtime</scope>-->
 <!--		</dependency>-->
+
+		<!-- adding this to avoid error related to data source -->
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
